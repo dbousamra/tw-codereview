@@ -30,4 +30,6 @@ Some ideas and thoughts around what we can do to improve the ThoughtWorks interv
 
 1. I am asked to review some code by recruiters, either directly, or a company wide code-review ask.
 2. I log onto http://codereview.thoughtworks.com with my CAS credentials.
-3. I see all open candidates (
+3. I see all open candidates (localized to my region by default).
+4. I can click a candidates open code review and view his code in browser. I can add comments, discuss with other ThoughtWorkers etc.
+5. I can vote quantitatively on various criteria (Readability, Design, Ease of extendability etc).
