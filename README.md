@@ -1,10 +1,17 @@
 ## Overview:
 Some ideas and thoughts around what we can do to improve the ThoughtWorks interview-candidate code review process.
 
+### Affects:
+
+- Recruiters
+- Candidates
+- Reviewers
+
 ### Problems:
 
 - Not a huge amount of visibility around whether there is code needing to be reviewed.
 - Handle on the code isn't always great - occasionally wrong code sent out, sometimes problem statement is omitted.
+- Data spread across various places (email mainly)
 
 ### Ideas:
 
