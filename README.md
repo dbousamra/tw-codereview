@@ -35,6 +35,8 @@ Some ideas and thoughts around what we can do to improve the ThoughtWorks interv
 2. This link contains the problem document and an option to submit code (as a ZIP file, a Github/Bitbucket repository etc).
 3. Recruiter is then emailed with a notification that the code is submitted.
 
+![alt text](https://github.com/dbousamra/tw-codereview/raw/master/mockups/candidate.png "Candidate")
+
 ##### As a Reviewer:
 
 1. I am asked to review some code by recruiters, either directly, or a company wide code-review ask.
