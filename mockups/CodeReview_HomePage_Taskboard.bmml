@@ -1,0 +1,161 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1541" measuredH="803" mockupW="1525" mockupH="753">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="16" y="220" w="759" h="583" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CodeReview%0Ahttp%3A//codereview.thoughtworks.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="33" y="409" w="699" h="344" measuredW="508" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>New%20Candidate%2C%20Code%20Problem%20Sent%2C%20Code%20to%20Review%2C%20In%20Progress%2C%20Review%20Done</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="55" y="441" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="55" y="518" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="55" y="595" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="210" y="441" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="374" y="441" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="616" y="441" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="702" y="310" w="-1" h="-1" measuredW="36" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="600" y="309" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%20%3Crecruiter%3E%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="36" y="313" w="-1" h="-1" measuredW="137" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>CodeReview</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::LinkBar" x="163" y="361" w="-1" h="-1" measuredW="265" measuredH="19" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Taskboard%2CLeaderboard%2C%20Code%20Problems</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="39" y="357" w="-1" h="-1" measuredW="109" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20Candidate</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="782" y="220" w="759" h="583" measuredW="450" measuredH="400" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CodeReview%0Ahttp%3A//codereview.thoughtworks.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::DataGrid" x="799" y="409" w="426" h="344" measuredW="278" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Code%20to%20Review%2C%20In%20Progress%2C%20Review%20Done</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Canvas" x="829" y="448" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Canvas" x="977" y="448" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Link" x="1468" y="310" w="-1" h="-1" measuredW="36" measuredH="19" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="1366" y="309" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%20%3Creviewer%3E%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="802" y="313" w="-1" h="-1" measuredW="137" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>CodeReview</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Canvas" x="977" y="525" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16370588</color>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::LinkBar" x="931" y="367" w="-1" h="-1" measuredW="265" measuredH="19" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Taskboard%2CLeaderboard%2C%20Code%20Problems</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="805" y="361" w="-1" h="-1" measuredW="109" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Add%20Candidate</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="16" y="87" w="-1" h="-1" measuredW="399" measuredH="40" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>HOME%20PAGE%20/%20TASKBOARD</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="21" y="171" w="-1" h="-1" measuredW="208" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>RECRUITER%20VIEW</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="782" y="177" w="-1" h="-1" measuredW="197" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>REVIEWER%20VIEW</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::StickyNote" x="516" y="50" w="199" h="123" measuredW="109" measuredH="123" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>potential%20for%20this%20not%20to%20just%20be%20code%0A%20%0ABAs%20get%20problems%20too%20-%20could%20be%20used%20the%20same%20way</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::StickyNote" x="816" y="604" w="123" h="123" measuredW="109" measuredH="123" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Candidate%20cards%20are%20sorted%20by%20due%20date%20in%20ascending%20order</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::StickyNote" x="1276" y="398" w="247" h="197" measuredW="109" measuredH="123" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Given%20that%20a%20Reviewer%20picks%20up%20a%20Candidate%20Card%20from%20the%20Code%20to%20Review%20column%0AWhen%20they%20move%20it%20to%20In%20Progress%0AThen%20the%20card%20is%20assigned%20to%20them%0AAnd%20the%20Recruiter%20receives%20an%20email%20notification</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::StickyNote" x="1276" y="596" w="247" h="173" measuredW="109" measuredH="123" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Given%20that%20a%20Reviewer%20picks%20up%20a%20Candidate%20Card%20from%20the%20In%20Progress%20column%0AWhen%20they%20move%20it%20to%20Review%20Done%0AThen%20the%20card%20is%20assigned%20to%20the%20Recruiter%0AAnd%20the%20Recruiter%20receives%20an%20email%20notification</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::RoundButton" x="1244" y="354" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <icon>SlideShareIcon%7Csmall</icon>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::RoundButton" x="1286" y="354" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16370588</color>
+        <icon>AIMIcon%7Csmall</icon>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Button" x="1024" y="561" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pair</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::StickyNote" x="992" y="651" w="214" h="116" measuredW="109" measuredH="123" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Given%20that%20a%20Reviewer%20sees%20a%20Candidate%20Card%20is%20Orange%0AWhen%20they%20click%20%27Pair%27%0AThen%20the%20card%20turns%20Green</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="1106" y="448" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="34" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
