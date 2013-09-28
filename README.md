@@ -27,6 +27,8 @@ Some ideas and thoughts around what we can do to improve the ThoughtWorks interv
 3. I am then is presented with a link they can send to the candidate. Eg: http://codereview.thoughtworks.com/gJfH27h33
 4. I can then email this to the candidate.
 
+![alt text](https://github.com/dbousamra/tw-codereview/raw/master/images/recruiter.png "Recruiter")
+
 ##### As a Candidate:
 
 1. I receive an email with the following link: http://codereview.thoughtworks.com/gJfH27h33
