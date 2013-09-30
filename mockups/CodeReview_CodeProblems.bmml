@@ -21,35 +21,30 @@
         <text>CodeReview</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::LinkBar" x="333" y="303" w="-1" h="-1" measuredW="265" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::LinkBar" x="329" y="254" w="-1" h="-1" measuredW="265" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>2</selectedIndex>
         <text>Taskboard%2CLeaderboard%2C%20Code%20Problems</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="50" y="299" w="-1" h="-1" measuredW="109" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Add%20Candidate</text>
-      </controlProperties>
-    </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="27" y="29" w="-1" h="-1" measuredW="271" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="27" y="29" w="-1" h="-1" measuredW="271" measuredH="40" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <size>32</size>
         <text>CODE%20PROBLEMS</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="27" y="104" w="-1" h="-1" measuredW="201" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="27" y="104" w="-1" h="-1" measuredW="211" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <size>24</size>
-        <text>VIEW%3A%20EVERYONE</text>
+        <text>VIEW%3A%20RECRUITER</text>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::DataGrid" x="47" y="355" w="398" h="322" measuredW="62" measuredH="51" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::DataGrid" x="47" y="355" w="398" h="322" measuredW="209" measuredH="141" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Name%2C%20%0ATrains%2C</text>
+        <text>Name%2C%20%0ATrains%2C%0AMerchants%20Guide%20to%20the%20Galaxy%2C%0ASome%20other%20problem%2C%0AAnd%20another</text>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::Button" x="168" y="299" w="-1" h="-1" measuredW="150" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Button" x="47" y="299" w="-1" h="-1" measuredW="150" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Upload%20Code%20Problem</text>
       </controlProperties>

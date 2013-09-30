@@ -27,7 +27,7 @@ Some ideas and thoughts around what we can do to improve the ThoughtWorks interv
 3. I am then is presented with a link they can send to the candidate. Eg: http://codereview.thoughtworks.com/gJfH27h33
 4. I can then email this to the candidate.
 
-![alt text](https://github.com/dbousamra/tw-codereview/raw/master/mockups/recruiter.png "Recruiter")
+![alt text](https://github.com/dbousamra/tw-codereview/raw/master/mockups/CodeReview_AddCandidate.png "Recruiter")
 
 ##### As a Candidate:
 
@@ -35,7 +35,7 @@ Some ideas and thoughts around what we can do to improve the ThoughtWorks interv
 2. This link contains the problem document and an option to submit code (as a ZIP file, a Github/Bitbucket repository etc).
 3. Recruiter is then emailed with a notification that the code is submitted.
 
-![alt text](https://github.com/dbousamra/tw-codereview/raw/master/mockups/candidate.png "Candidate")
+![alt text](https://github.com/dbousamra/tw-codereview/raw/master/mockups/CodeReview_SolutionSubmission.png "Candidate")
 
 ##### As a Reviewer:
 
@@ -44,3 +44,7 @@ Some ideas and thoughts around what we can do to improve the ThoughtWorks interv
 3. I see all open candidates (localized to my region by default).
 4. I can click a candidates open code review and view his code in browser. I can add comments, discuss with other ThoughtWorkers etc.
 5. I can vote quantitatively on various criteria (Readability, Design, Ease of extendability etc).
+
+![alt text](https://github.com/dbousamra/tw-codereview/raw/master/mockups/CodeReview_Reviewer.png "Reviewer")
+
+![alt text](https://github.com/dbousamra/tw-codereview/raw/master/mockups/CodeReview_HomePage_Taskboard.png "Reviewer")

@@ -1,0 +1,34 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="720" measuredH="485" mockupW="720" mockupH="480">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="5" w="720" h="480" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ThoughtWorks%20Code%20Review%20-%20Kate%20Wilson%0Ahttp%3A//codereview.thoughtworks.com/gJfH27h33</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="131" y="158" w="532" h="108" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%20Kate%2C%0A%20%0ACongratulations%20on%20making%20it%20through%20the%20first%20rounds.%20Now%20it%27s%20time%20for%20some%20code%21%0A%20%0AThe%20problem%20you%27ve%20been%20given%20will%20test%20and%20challenge%20your%20development%2C%20architectural%20and%20design%20skills.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="122" y="108" w="414" h="-1" measuredW="408" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Code%20submission%20time%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="222" y="260" w="-1" h="-1" measuredW="130" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Download%20problem</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="367" y="260" w="131" h="27" measuredW="113" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Upload%20solution</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="131" y="306" w="503" h="148" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*What%20language%20can%20I%20submit%20my%20code%20in%3F*%0AAny%20language%20you%20want.%20We%20suggest%20using%20the%20environment/language%20you%20are%20most%20comfortable%20with.%0A%20%0A*How%20long%20do%20I%20have%20to%20complete%20my%20code%20submission%3F*%0AAs%20a%20general%20rule%2C%20we%20allow%20three%20days%20from%20the%20date%20that%20you%20receive%20this%20letter%20to%20submit%20your%20code%2C%20but%20you%20may%20request%20more%20time%20from%20your%20recruiter%20if%20needed.%20%20If%20you%20have%20any%20questions%20about%20the%20code%20as%20it%20relates%20to%20your%20interview%20process%2C%20please%20contact%20your%20recruiter</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
