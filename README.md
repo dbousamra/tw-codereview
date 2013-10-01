@@ -63,7 +63,7 @@ Some ideas and thoughts around what we can do to improve the ThoughtWorks interv
 
 *Should consider the impact of Review Count - provides transparency but should be used with caution (wouldn't want to inadvertently incentivise Reviewers to rush their code reviews to get more done!). 
 
-Future applications
+### Future applications
 
 ##### Analytics
 - What code problem did the majority of successful hires complete?
